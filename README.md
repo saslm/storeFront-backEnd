@@ -1,2 +1,3 @@
 # storeFront-backEnd
-Udacity second project
+Udacity Advanced Full-Stack Web Development NANODEGREE PROGRAM 
+Second project
